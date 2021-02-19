@@ -1,2 +1,2 @@
 # CrackingTheCodingInterviewSolutions
-Cracking the Coding interview, solutions
+Solutions for the book.
