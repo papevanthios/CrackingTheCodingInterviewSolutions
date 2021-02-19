@@ -1,6 +1,7 @@
 # CrackingTheCodingInterviewSolutions
 Solutions for the book in Java.
 - - - -
+- - 
 Contents of chapters implemented:
 
   * Chapter 1 | Arrays and Strings
