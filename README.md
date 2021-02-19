@@ -1,5 +1,5 @@
 # CrackingTheCodingInterviewSolutions
-Solutions for the book.
+Solutions for the book in Java.
 - - - -
 Contents of chapters implemented:
 
