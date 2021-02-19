@@ -7,4 +7,4 @@ Contents of chapters implemented:
   * Chapter 2 | Linked Lists
 
 # Licence
-MIT
+[MIT](https://github.com/papevanthios/CrackingTheCodingInterviewSolutions/blob/main/LICENSE)
